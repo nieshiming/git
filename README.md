@@ -1,4 +1,4 @@
-git 教学文章： https://gitbook.tw/n1  
+git 教学文章： https://gitbook.tw/ming  
               https://backlog.com/git-tutorial/tw/stepup/stepup2_8.html  
 
 git 提交规范： 
